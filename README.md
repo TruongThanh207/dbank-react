@@ -10,12 +10,12 @@
   - Reactjs - as framework for web client application.
   
 ## The steps are
-  - Install truffle:  npm install -g truffle  ..... npm install
-  - Compile:          truffle compile
-  - Migrate:          truffle migrate
-  - Test contracts:   truffle test
+  - Install truffle:  __npm install -g truffle__  ..... npm install
+  - Compile:          __truffle compile__
+  - Migrate:          __truffle migrate__
+  - Test contracts:   __truffle test__
   - Build
     - Open Ganache
     - Create wallet with Metamask
-    - Run:            npm start    
+    - Run:            __npm start__    
     - Connect wallet and site 
