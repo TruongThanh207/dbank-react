@@ -19,4 +19,5 @@
     - Create wallet with Metamask
     - Run:            __npm start__    
     - Connect wallet and site 
+
 ![image](https://user-images.githubusercontent.com/45113398/121815768-42a7e600-cca2-11eb-9cb9-6995cc836766.png)
